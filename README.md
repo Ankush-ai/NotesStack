@@ -1,4 +1,4 @@
-# Note-Maker-Web-App-Using-Bootstrap-4-Hibernate-JSP-Servlet
+NotesStack
 NotesStack is a simple note making app to save notes. Front end is designed using Bootstrap 4 so its responsive to Desktop/PC browser as well as mobile browser.  Business Logic is coded in Java using JSP Servlets and Hibernate to connect Database. MySQl Workbecnh is used as database of this Project.
 
 
